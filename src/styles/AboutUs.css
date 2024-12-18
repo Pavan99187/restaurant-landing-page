@@ -1,0 +1,16 @@
+.about-us {
+  padding: 50px 20px;
+  text-align: center;
+  /* background-color: #f8f9fa; */
+  height: 100vh;
+}
+
+.about-us h2 {
+  font-size: 2rem;
+  color: #e63946;
+}
+
+.about-us p {
+  font-size: 1.2rem;
+  margin-top: 10px;
+}
